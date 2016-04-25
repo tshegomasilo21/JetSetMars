@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Jet Set Mars</string>
+    <string name="title">Jet Pack</string>
+    <string name="content"><b>JET SET MARS</b> is an application designed to assist astronauts and Jet pack designers. In order to save
+    time for designers, we do the research, feasibility studies and risk analysis about which materials to
+    consider when designing a Jet pack for a specific destination based on climatic and environmental
+    conditions. It also includes suggestions of the kind of Jet packs to use.</string>
+    <string name="heading"><b>Bulk parameters</b></string>
+    <string name="mars_parameter" formatted="false">Mass[kg]	=5.97X10^20 \nGravity [m/s^2]	=9.8\n Radius [m]	=6357\n Dist. from sun [au] 	=1.0
+    </string>
+    <string name="mars_thermo_properties">Thermo/Fluid Dynamic properties</string>
+    <string name="mars_thermo_details" formatted="false">Temp. range [C]	=57--89 \nRel humid range[%]	=20-80 \nATM pressure [kPa]	=101.3 \nWind vel ran[m/s]	= 50</string>
+    <string name="mars_rainfall">Rain fall</string>
+    <string name="mars_rainfall_details">Avg = 11430 mm</string>
+    <string name="mars_atm_comp">Atmospheric components</string>
+    <string name="mars_atm_compdetails" formatted="false">Oxygen =  20%\nNitrogen = 78%\nHydrogen = 1%</string>
+
+    <string name="earth_parameter" formatted="false">Mass[kg] 	=6.42X10^23 \nGravity [m/s^2]	=3.72 \nRadius [m]	=3397 \nDist. from sun [au]	=1.524 </string>
+    <string name="earth_thermo_properties">Thermo/Fluid Dynamic properties</string>
+    <string name="earth_thermo_details" formatted="false">Temp. range [C]	= 20--153 \nRel humid range[%]	= 0-100 \nATM pressure [kPa]	= 0.6 kPa \nWind vel ran[m/s]	= 10</string>
+    <string name="earth_rainfall">Rain fall</string>
+    <string name="earth_rainfall_details">Not Applicable</string>
+    <string name="earth_atm_comp">Atmospheric components</string>
+    <string name="earth_atm_compdetails" formatted="false">Oxygen =1.73 %\nNitrogen = 2.7 %\nCarbon dioxide = 95.3 %\nWater vapor = 0.25%
+</string>
+
+    <string name="moon_parameter" formatted="false">Mass[kg] 	=7.35X10^22 \nGravity [m/s^2]	=1.622 \nRadius [m]	=1737 \nDist. from sun [au]	=0.983
+    </string>
+    <string name="moon_thermo_properties">Thermo/Fluid Dynamic properties</string>
+    <string name="moon_thermo_details" formatted="false">Temp. range [C] = 100--175\nRel humid range[%]	= Not Appicable \nATM pressure [kPa]	= Not Appicable\nWind vel range[m/s^2]	= Not Appicable</string>
+    <string name="moon_rainfall">Rain fall</string>
+    <string name="moon_rainfall_details">Not Applicable</string>
+    <string name="moon_atm_comp">Atmospheric components</string>
+    <string name="moon_atm_compdetails" formatted="false">Oxygen = Not Appicable \nNitrogen = Not Appicable\nHydrogen = Not Appicable </string>
+    <string name="title_activity_main2">Design Materials</string>
+
+
+
+</resources>
